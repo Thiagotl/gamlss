@@ -1,1 +1,1 @@
-links to access content[https://www.gamlss.com/]
+[links to access content](https://www.gamlss.com/)
